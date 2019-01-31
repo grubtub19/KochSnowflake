@@ -2,7 +2,7 @@
 
 # Description
 
-This is a project from my Graphics class at University. You input the number of iterations and side length. The program draws recursively a Koch Snowflake in OpenGL (using JOGL). It also outputs information about parimeter length and area for each iteration.
+This is a project from my Graphics class at University. You input the number of iterations and side length. The programrecursively draws  a Koch Snowflake in OpenGL (using JOGL). It also outputs information about parimeter length and area for each iteration.
 
 # Report
 
